@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlertDialog Single/Multi choice</string>
+
+    <string name="alert_dialog_single_multi_choice">Alert Dialog - Single / Multi Choice</string>
+
+    <string name="dialog_message">Dialog message. Are you sure?</string>
+    <string name="dialog_title">Dialog title</string>
+    <string name="ok">OK</string>
+</resources>
